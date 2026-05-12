@@ -23,7 +23,7 @@ This homelab runs entirely on a single repurposed business laptop. The decision 
 
 The laptop connects to the home router via a single Ethernet cable. All internal virtual networking is handled through Proxmox Linux bridges — no additional physical switches or NICs required.
 
-![Physical Ethernet Connection](../images/04_hardware_ethernet.jpg)
+![Physical Ethernet Connection](04_hardware_ethernet.jpg)
 *HP EliteBook 840 G3 connected via Ethernet to the home router — the single physical link that carries all lab traffic.*
 
 ![Router Connection](../images/05_router_physical.jpg)
