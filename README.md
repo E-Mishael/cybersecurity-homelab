@@ -12,7 +12,7 @@ This repository documents the design, deployment, configuration, and troubleshoo
 
 | The Physical Lab | Proxmox VE Dashboard |
 |:---:|:---:|
-| ![Hardware](04_hardware_ethernet.jpg) | ![Proxmox](images/07_proxmox_dashboard_2.jpg) |
+| ![Hardware](04_hardware_ethernet.jpg) | ![Proxmox](07_proxmox_dashboard_2.jpg) |
 
 ---
 
@@ -45,7 +45,7 @@ Home Router (192.168.100.1)
 
 ## 🗺️ Network Diagram
 
-![Network Diagram](images/08_network_diagram.png)
+![Network Diagram](08_network_diagram.png)
 
 ---
 
@@ -125,7 +125,7 @@ cybersecurity-homelab/
 **Mishael Eluehike**
 Cybersecurity Analyst | CompTIA Security+ | Cisco CyberOps Associate | BSc Computer Science (First-Class Honours)
 
-📧 mishae.elu@gmail.com
+📧 mishael.elu@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/eluehike-mishael-791696259)
 
 ---
