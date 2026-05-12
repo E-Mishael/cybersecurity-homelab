@@ -109,21 +109,21 @@ cybersecurity-homelab/
 
 | # | Document | Description |
 |:---|:---|:---|
-| 1 | [Hardware Foundation](docs/01-hardware-foundation.md) | Physical specs and why this hardware was chosen |
-| 2 | [Proxmox Setup](docs/02-proxmox-setup.md) | Hypervisor install, storage, and networking |
-| 3 | [Network Architecture](docs/03-network-architecture.md) | The full dual-bridge segmented design |
-| 4 | [pfSense Firewall](docs/04-pfsense-firewall.md) | Firewall configuration from scratch |
-| 5 | [Suricata IDS/IPS](docs/05-suricata-ids.md) | Intrusion detection deployment and tuning |
-| 6 | [WireGuard VPN](docs/06-wireguard-vpn.md) | Secure remote access setup |
-| 7 | [Troubleshooting Log](docs/07-troubleshooting-log.md) | Real failures and how they were fixed |
-| 8 | [Roadmap](docs/08-roadmap.md) | What's coming next |
+| 1 | [Hardware Foundation](01-hardware-foundation.md) | Physical specs and why this hardware was chosen |
+| 2 | [Proxmox Setup](02-proxmox-setup.md) | Hypervisor install, storage, and networking |
+| 3 | [Network Architecture](03-network-architecture.md) | The full dual-bridge segmented design |
+| 4 | [pfSense Firewall](04-pfsense-firewall.md) | Firewall configuration from scratch |
+| 5 | [Suricata IDS/IPS](05-suricata-ids.md) | Intrusion detection deployment and tuning |
+| 6 | [WireGuard VPN](06-wireguard-vpn.md) | Secure remote access setup |
+| 7 | [Troubleshooting Log](07-troubleshooting-log.md) | Real failures and how they were fixed |
+| 8 | [Roadmap](08-roadmap.md) | What's coming next |
 
 ---
 
 ## 👤 About
 
 **Mishael Eluehike**
-Cybersecurity Analyst | CompTIA Security+ | Cisco CyberOps Associate | BSc Computer Science (First-Class Honours)
+Cybersecurity Analyst | CompTIA Security+ | Cisco CyberOps Associate | BSc Computer Science (First Class Honours)
 
 📧 mishael.elu@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/eluehike-mishael-791696259)
