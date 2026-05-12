@@ -26,7 +26,7 @@ The laptop connects to the home router via a single Ethernet cable. All internal
 ![Physical Ethernet Connection](04_hardware_ethernet.jpg)
 *HP EliteBook 840 G3 connected via Ethernet to the home router — the single physical link that carries all lab traffic.*
 
-![Router Connection](../images/05_router_physical.jpg)
+![Router Connection](05_router_physical.jpg)
 *Home router with the lab Ethernet cable visible — the physical boundary between the home network and the lab environment.*
 
 ---
