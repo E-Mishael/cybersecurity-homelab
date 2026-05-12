@@ -58,4 +58,4 @@ As the lab matures, the following rules will be added and documented:
 
 ---
 
-*See also: [pfSense Firewall Documentation](../docs/04-pfsense-firewall.md)*
+*See also: [pfSense Firewall Documentation](04-pfsense-firewall.md)*
