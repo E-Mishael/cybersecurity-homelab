@@ -106,4 +106,4 @@ ping 192.168.1.1
 
 ---
 
-*See also: [WireGuard VPN Documentation](../docs/06-wireguard-vpn.md)*
+*See also: [WireGuard VPN Documentation](06-wireguard-vpn.md)*
