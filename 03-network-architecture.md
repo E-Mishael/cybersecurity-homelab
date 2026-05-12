@@ -10,7 +10,7 @@ This architecture directly mirrors how enterprise environments isolate productio
 
 ## Network Diagram
 
-![Network Diagram](../images/08_network_diagram.png)
+![Network Diagram](08_network_diagram.png)
 
 ---
 
