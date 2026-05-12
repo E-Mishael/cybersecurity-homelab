@@ -125,7 +125,7 @@ cybersecurity-homelab/
 **Mishael Eluehike**
 Cybersecurity Analyst | CompTIA Security+ | Cisco CyberOps Associate | BSc Computer Science (First-Class Honours)
 
-📧 eluehikem@gmail.com
+📧 mishae.elu@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/eluehike-mishael-791696259)
 
 ---
