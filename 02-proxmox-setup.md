@@ -46,7 +46,7 @@ During installation, the following network parameters were assigned:
 | Gateway | `192.168.100.1` |
 | DNS Server | `192.168.100.1` |
 
-![Proxmox Installer Network Config](../images/03_proxmox_installer_network.jpg)
+![Proxmox Installer Network Config](03_proxmox_installer_network.jpg)
 *Proxmox installer showing the management interface assignment and static IP configuration.*
 
 ### 4. Post-Installation Repository Fix
@@ -84,10 +84,10 @@ LVM-thin provisioning allows VM disks to only consume actual space used, rather 
 
 ## Proxmox Dashboard
 
-![Proxmox Dashboard](../images/07_proxmox_dashboard_2.jpg)
+![Proxmox Dashboard](07_proxmox_dashboard_2.jpg)
 *Proxmox VE 9.1.1 web interface accessed at `https://192.168.100.2:8006` — showing the node `mishaelproxmox` and datacenter structure.*
 
-![Proxmox Dashboard Detail](../images/06_proxmox_dashboard_1.jpg)
+![Proxmox Dashboard Detail](06_proxmox_dashboard_1.jpg)
 *Datacenter view showing the node, local storage, and local-lvm storage pools with current utilization.*
 
 The web interface is accessible only from the internal home network at `https://192.168.100.2:8006`. It is not exposed to the internet.
@@ -110,10 +110,10 @@ The web interface is accessible only from the internal home network at `https://
 
 The following screenshots show the actual VM configuration used for the pfSense firewall VM, confirming the real build parameters:
 
-![VM Creation Config 1](../images/01_proxmox_vm_creation_1.jpg)
+![VM Creation Config 1](01_proxmox_vm_creation_1.jpg)
 *Proxmox VM creation wizard — Confirm tab showing BIOS (OVMF/UEFI), CPU type, memory (4096 MB), disk, network bridge, and node assignment for the OPNsense/pfSense VM.*
 
-![VM Creation Config 2](../images/02_proxmox_vm_creation_2.jpg)
+![VM Creation Config 2](02_proxmox_vm_creation_2.jpg)
 *Full VM config including virtio disk (20 GB, qcow2), VM ID 100, and storage assignment on `mishaelproxmox` node.*
 
 ---
