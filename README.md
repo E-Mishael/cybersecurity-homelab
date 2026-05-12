@@ -12,7 +12,7 @@ This repository documents the design, deployment, configuration, and troubleshoo
 
 | The Physical Lab | Proxmox VE Dashboard |
 |:---:|:---:|
-| ![Hardware](images/04_hardware_ethernet.jpg) | ![Proxmox](images/07_proxmox_dashboard_2.jpg) |
+| ![Hardware](04_hardware_ethernet.jpg) | ![Proxmox](images/07_proxmox_dashboard_2.jpg) |
 
 ---
 
