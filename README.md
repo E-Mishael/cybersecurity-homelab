@@ -130,4 +130,4 @@ Cybersecurity Analyst | CompTIA Security+ | Cisco CyberOps Associate | BSc Compu
 
 ---
 
-*This lab is actively maintained and expanded. Last updated: 2025.*
+*This lab is actively maintained and expanded. Last updated: 2026.*
